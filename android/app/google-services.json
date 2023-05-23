@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332330209979",
+    "project_id": "phone-398f1",
+    "storage_bucket": "phone-398f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332330209979:android:e74ca6332502202c02cf9e",
+        "android_client_info": {
+          "package_name": "com.example.ph_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332330209979-t53g00kl440o85fojtras44mnk0o31tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlzHIydmEkThZbWtGZndb-xM97ZljHF5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332330209979-t53g00kl440o85fojtras44mnk0o31tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
