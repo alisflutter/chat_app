@@ -1,6 +1,20 @@
-# ph_login
+# ChatMate
 
-A new Flutter project.
+A new Chat Application project.
+ChatMate(chat_app) with Flutter, Provider state management and Firebase.
+
+## Features:
+
+        -One To One chat with Contacts.
+        -Phone number authentication.
+        -Text,image,audio,video send.
+        -user can upload Status.
+        -Private chat (AES algorithm use to encrypt message then save).
+        -Online/Offline Status.
+        -Seen Feature.
+        -User can choose color chatTheme.
+        -User can set profile picture.
+  
 
 ## Getting Started
 
