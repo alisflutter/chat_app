@@ -16,15 +16,22 @@ ChatMate(chat_app) with Flutter, Provider state management and Firebase.
         -User can set profile picture.
   
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2023-08-02 at 12 24 55](https://github.com/monapara354/chat_app/assets/104920816/969c25c1-d994-4fb0-8727-cdba7c30cb3c)        
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2023-08-02 at 12 08 22](https://github.com/monapara354/chat_app/assets/104920816/96167228-44d3-4b8b-9712-d75b2ab58cbe)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2023-08-02 at 12 25 59](https://github.com/monapara354/chat_app/assets/104920816/1963d320-e721-4dfc-99d1-0abe0273d5af)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-08-02 at 12 12 57](https://github.com/monapara354/chat_app/assets/104920816/04767ea2-68b6-409b-b8b7-91b2cbc3ed2a)
+
+![WhatsApp Image 2023-08-02 at 12 13 23](https://github.com/monapara354/chat_app/assets/104920816/3fe0a802-ff7b-43e6-9982-58b457f56e7c)
+
+![WhatsApp Image 2023-08-02 at 12 24 56](https://github.com/monapara354/chat_app/assets/104920816/b79999fa-4397-4726-b846-6eabd71d1aac)
+
+![WhatsApp Image 2023-08-02 at 12 24 57](https://github.com/monapara354/chat_app/assets/104920816/86a5d775-31e7-4647-892c-2ecc2e635fc9)
+
+![WhatsApp Image 2023-08-02 at 12 13 11](https://github.com/monapara354/chat_app/assets/104920816/916e216c-e116-4451-b03b-fe1e1e35c61e)
+
+
