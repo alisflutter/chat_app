@@ -28,8 +28,6 @@ ChatMate(chat_app) with Flutter, Provider state management and Firebase.
 
 ![WhatsApp Image 2023-08-02 at 12 13 23](https://github.com/monapara354/chat_app/assets/104920816/3fe0a802-ff7b-43e6-9982-58b457f56e7c)
 
-![WhatsApp Image 2023-08-02 at 12 24 56](https://github.com/monapara354/chat_app/assets/104920816/b79999fa-4397-4726-b846-6eabd71d1aac)
-
 ![WhatsApp Image 2023-08-02 at 12 24 57](https://github.com/monapara354/chat_app/assets/104920816/86a5d775-31e7-4647-892c-2ecc2e635fc9)
 
 ![WhatsApp Image 2023-08-02 at 12 13 11](https://github.com/monapara354/chat_app/assets/104920816/916e216c-e116-4451-b03b-fe1e1e35c61e)
